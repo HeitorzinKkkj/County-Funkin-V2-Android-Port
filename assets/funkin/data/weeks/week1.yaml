@@ -1,0 +1,11 @@
+songs:
+ - ["Bopeebo", "Fresh", "Dad Battle"] # Display Names
+ - ["bopeebo", "fresh", "dadbattle"] # Folder Names
+ - ["dad"] # Characters (will use the first one if the others aren't specified)
+ - ["#9271FD"] # Colors (will use the first one if the others aren't specified)
+
+tagline: "My Week"
+image: "week1"
+characters: ["dad", "bf", "gf"]
+difficulties: ["easy", "normal", "hard"]
+startsLocked: false

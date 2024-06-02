@@ -1,0 +1,8 @@
+// SCRIPT USED FOR FLIPPING OPPONENT
+function generate() {
+	if (!isPlayer) {
+		char.positionDisplace.y = 350.0;
+		char.singingSteps[0] = "singRIGHT";
+		char.singingSteps[3] = "singLEFT";
+	}
+}

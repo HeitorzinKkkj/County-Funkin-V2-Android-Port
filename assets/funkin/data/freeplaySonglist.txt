@@ -1,0 +1,34 @@
+# Display Name | Folder Name | Icon | difficultya, difficultyb, difficultyc
+# Difficulties are optional and separated by commas
+# Starting lines with a hash (#) gets ignored since its a comment
+# Empty lines also get ignored
+
+Tutorial | tutorial | gf | #9271FD
+
+Bopeebo | bopeebo | dad | #9271FD
+Fresh | fresh | dad | #9271FD
+Dad Battle | dadbattle | dad | #9271FD
+
+Spookeez | spookeez | spooky | #223344
+South | south | spooky | #223344
+Monster | monster | monster | #223344
+
+Pico | pico | pico | #941653
+Philly Nice | philly | pico | #941653
+Blammed | blammed | pico | #941653
+
+Satin Panties | satin-panties | mom | #FC96D7
+High | high | mom | #FC96D7
+M.I.L.F | milf | mom | #FC96D7
+
+Cocoa | cocoa | parents | #A0D1FF
+Eggnog | eggnog | parents | #A0D1FF
+Winter Horrorland | winter-horrorland | monster | #A0D1FF
+
+Senpai | senpai | senpai | #FF78BF
+Roses | roses | senpai | #FF78BF
+Thorns | thorns | spirit | #FF78BF
+
+Ugh | ugh | tankman | #F6B604
+Guns | guns | tankman | #F6B604
+Stress | stress | tankman | #F6B604
